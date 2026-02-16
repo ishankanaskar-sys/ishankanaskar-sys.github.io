@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+}
+.container {
+  max-width: 800px;
+  padding: 32px;
+  margin: 0 auto;
+}
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
